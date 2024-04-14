@@ -1,0 +1,4 @@
+org/example/cloudmovies/controller/MoviesController.class
+org/example/cloudmovies/repository/MoviesRepository.class
+org/example/cloudmovies/CloudMoviesApplication.class
+org/example/cloudmovies/model/Movie.class
